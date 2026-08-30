@@ -1,0 +1,51 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "desktop-pet-gameshub"
+version = "1.0.0"
+description = "Локальный каталог игровой библиотеки на Tkinter с автозаполнением карточек из внешнего источника"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.31,<3",
+    "beautifulsoup4>=4.12,<5",
+    "lxml>=5.0,<7",
+    "Pillow>=10.0,<12",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0,<9",
+    "ruff>=0.6,<1",
+]
+
+[project.scripts]
+desktop-pet-gameshub = "desktop_pet_gameshub.app:main"
+
+[tool.setuptools]
+packages = [
+    "desktop_pet_gameshub",
+    "desktop_pet_gameshub.db",
+    "desktop_pet_gameshub.models",
+    "desktop_pet_gameshub.services",
+    "desktop_pet_gameshub.ui",
+    "desktop_pet_gameshub.ui.widgets",
+    "desktop_pet_gameshub.ui.dialogs",
+    "desktop_pet_gameshub.data",
+]
+
+[tool.setuptools.package-data]
+"desktop_pet_gameshub.data" = ["*.json"]
+
+[tool.ruff]
+line-length = 110
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+ignore = ["E501"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

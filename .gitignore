@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.eggs/
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# Локальные данные
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+/data/local/
+/logs/
+*.log
+
+# Переменные окружения и ключи
+.env
+.env.*
+*.cookies
+*.token
+*credentials*
+
+# Тесты и покрытие
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Редакторы
+.idea/
+.vscode/
+
+# Система
+.DS_Store
+Thumbs.db
+
+# PyInstaller
+*.spec.bak

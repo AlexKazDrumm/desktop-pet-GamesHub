@@ -1,0 +1,137 @@
+[
+  {
+    "title": "The Witcher 3: Wild Hunt",
+    "year": 2015,
+    "status": "Пройдено",
+    "developers": ["CD Projekt Red"],
+    "publishers": ["CD Projekt"],
+    "genres": ["RPG", "Action"],
+    "platforms": ["PC (Microsoft Windows)", "PlayStation 4", "Xbox One"]
+  },
+  {
+    "title": "Portal 2",
+    "year": 2011,
+    "status": "Пройдено",
+    "developers": ["Valve"],
+    "publishers": ["Valve"],
+    "genres": ["Puzzle", "Platformer"],
+    "platforms": ["PC (Microsoft Windows)", "PlayStation 3", "Xbox 360"]
+  },
+  {
+    "title": "Hades",
+    "year": 2020,
+    "status": "Пройдено",
+    "developers": ["Supergiant Games"],
+    "publishers": ["Supergiant Games"],
+    "genres": ["Roguelike", "Action"],
+    "platforms": ["PC (Microsoft Windows)", "Nintendo Switch", "PlayStation 5"]
+  },
+  {
+    "title": "Stardew Valley",
+    "year": 2016,
+    "status": "В процессе",
+    "developers": ["ConcernedApe"],
+    "publishers": ["ConcernedApe"],
+    "genres": ["Simulation", "RPG"],
+    "platforms": ["PC (Microsoft Windows)", "Nintendo Switch"]
+  },
+  {
+    "title": "Celeste",
+    "year": 2018,
+    "status": "Пройдено",
+    "developers": ["Maddy Makes Games"],
+    "publishers": ["Maddy Makes Games"],
+    "genres": ["Platformer"],
+    "platforms": ["PC (Microsoft Windows)", "Nintendo Switch", "PlayStation 4"]
+  },
+  {
+    "title": "Disco Elysium",
+    "year": 2019,
+    "status": "В процессе",
+    "developers": ["ZA/UM"],
+    "publishers": ["ZA/UM"],
+    "genres": ["RPG"],
+    "platforms": ["PC (Microsoft Windows)", "PlayStation 4", "Xbox One"]
+  },
+  {
+    "title": "Hollow Knight",
+    "year": 2017,
+    "status": "Пройдено",
+    "developers": ["Team Cherry"],
+    "publishers": ["Team Cherry"],
+    "genres": ["Metroidvania", "Platformer"],
+    "platforms": ["PC (Microsoft Windows)", "Nintendo Switch", "PlayStation 4"]
+  },
+  {
+    "title": "Baldur's Gate 3",
+    "year": 2023,
+    "status": "В процессе",
+    "developers": ["Larian Studios"],
+    "publishers": ["Larian Studios"],
+    "genres": ["RPG"],
+    "platforms": ["PC (Microsoft Windows)", "PlayStation 5", "Xbox Series X|S"]
+  },
+  {
+    "title": "It Takes Two",
+    "year": 2021,
+    "status": "Пройдено",
+    "developers": ["Hazelight Studios"],
+    "publishers": ["Electronic Arts"],
+    "genres": ["Action", "Adventure"],
+    "platforms": ["PC (Microsoft Windows)", "PlayStation 5", "Xbox Series X|S"]
+  },
+  {
+    "title": "Outer Wilds",
+    "year": 2019,
+    "status": "В планах",
+    "developers": ["Mobius Digital"],
+    "publishers": ["Annapurna Interactive"],
+    "genres": ["Adventure", "Puzzle"],
+    "platforms": ["PC (Microsoft Windows)", "Nintendo Switch", "PlayStation 4"]
+  },
+  {
+    "title": "Cyberpunk 2077",
+    "year": 2020,
+    "status": "В процессе",
+    "developers": ["CD Projekt Red"],
+    "publishers": ["CD Projekt"],
+    "genres": ["RPG", "Action"],
+    "platforms": ["PC (Microsoft Windows)", "PlayStation 5", "Xbox Series X|S"]
+  },
+  {
+    "title": "Slay the Spire",
+    "year": 2019,
+    "status": "Пройдено",
+    "developers": ["MegaCrit"],
+    "publishers": ["MegaCrit"],
+    "genres": ["Roguelike", "Card game"],
+    "platforms": ["PC (Microsoft Windows)", "Nintendo Switch"]
+  },
+  {
+    "title": "Deep Rock Galactic",
+    "year": 2020,
+    "status": "В процессе",
+    "developers": ["Ghost Ship Games"],
+    "publishers": ["Coffee Stain Publishing"],
+    "genres": ["Action", "Co-op"],
+    "platforms": ["PC (Microsoft Windows)", "Xbox Series X|S"]
+  },
+  {
+    "title": "Return of the Obra Dinn",
+    "year": 2018,
+    "status": "Пройдено",
+    "developers": ["Lucas Pope"],
+    "publishers": ["3909 LLC"],
+    "genres": ["Puzzle", "Adventure"],
+    "platforms": ["PC (Microsoft Windows)", "Nintendo Switch"]
+  },
+  {
+    "title": "Elden Ring",
+    "year": 2022,
+    "status": "В планах",
+    "developers": ["FromSoftware"],
+    "publishers": ["Bandai Namco Entertainment"],
+    "genres": ["RPG", "Action"],
+    "platforms": ["PC (Microsoft Windows)", "PlayStation 5", "Xbox Series X|S"]
+  }
+]
